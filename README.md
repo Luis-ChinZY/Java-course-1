@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MEanalyst
+- 👋 Hi, I’m @Luis
 - 👀 I’m interested in Data Analytics and business due diligence 
 - 🌱 I’m currently learning Python
 
